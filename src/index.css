@@ -1,0 +1,42 @@
+/* index.css */
+
+/* Style for the entire application */
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #61dafb;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Feature component styles */
+  .feature {
+    margin: 20px 0;
+  }
+  
+  .feature img {
+    height: 100px;
+  }
+  
+  .feature h3 {
+    margin: 10px 0;
+  }
+  
